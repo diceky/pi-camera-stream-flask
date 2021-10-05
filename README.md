@@ -1,4 +1,4 @@
-# Make you own Raspberry Pi Remote Controlled Rover
+# Raspberry Pi Remote Controlled Rover
 
 A remote controlled rover with live camera stream using Raspberry Pi + Pi camera module.
 
