@@ -4,7 +4,7 @@ A remote controlled rover with live camera stream using Raspberry Pi + Pi camera
 
 ## How it works
 
-The Pi streams the output of the camera module over the web via Flask. Devices connected to the same network would be able to access the camera stream via <hostname.local:500>, such as`http://battlebot1.local:5000`.
+The Pi streams the output of the camera module over the web via Flask. Devices connected to the same network would be able to access the camera stream via <hostname.local:500>, such as `http://battlebot1.local:5000`.
 
 The rover can also be controlled through the UI/key input on the Flask server + GPIO pins.
 
