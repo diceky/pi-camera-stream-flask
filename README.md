@@ -10,7 +10,7 @@ The rover can also be controlled through the UI/key input on the Flask server + 
 
 ## Screenshots
 
-![Demo](readme/dcamp-rover.gif)
+![Demo](readme/dcamp-rover_updated.gif)
 
 ## Preconditions
 
