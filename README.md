@@ -8,11 +8,11 @@ The Pi streams the output of the camera module over the web via Flask. Devices c
 
 The rover can also be controlled through the UI/key input on the Flask server + GPIO pins.
 
-## Screenshots
+## Demo
 
 ![Demo](readme/dcamp-rover_updated.gif)
 
-## Preconditions
+## What you need
 
 - Raspberry Pi 4, 2GB is recommended for optimal performance. However you can use a Pi 3 or older, you may see a increase in latency.
 - Raspberry Pi 4 Camera Module or Pi HQ Camera Module (Newer version)
